@@ -1,0 +1,20 @@
+#cabeçalho{
+background-color: #102A43;
+display: flex;
+align-items: center;
+font-family: Arial;
+color:white;
+ max-height:80px;
+ max-width: 1100px;
+  border: 1px solid #4CAF50;
+}
+.links{
+    display: flex;
+    align-items: center;
+}
+p{
+    margin: 50px; 
+}
+.titulo{
+    
+}
